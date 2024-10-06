@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alvin0226 an A Level Student
+- 👋 Hi, I’m Alvin0226, an A Level Student
 - 👀 I’m interested in games, especially fps
 - 🌱 I’m currently learning Python, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
