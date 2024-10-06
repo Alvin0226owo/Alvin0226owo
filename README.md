@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alvin0226owo
-- 👀 I’m interested in game especially fps
-- 🌱 I’m currently learning python, JS , HTML , CSS
+- 👋 Hi, I’m Alvin0226 an A Level Student
+- 👀 I’m interested in games, especially fps
+- 🌱 I’m currently learning Python, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
